@@ -1,0 +1,15 @@
+table{
+    border-collapse: collapse;
+}
+thead tr , th{
+    background-color: #236CDC ;
+    border: 3px solid #00000C;
+}
+tbody td{
+    border:3px solid #00000C;
+    background-color:#CFCFCF;
+    
+}
+{
+    text-alig
+}
